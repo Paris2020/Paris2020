@@ -7,7 +7,7 @@ Hi guy's - I'm a Frontend Developer by profession with over 3 years experience. 
 - 👯 I’m looking to collaborate on choreography with some good heels class teachers one day in 🇿🇦 and all over the 🌏.
 - 🤔 I’m looking for help with being a Senior's mentee in Web and Business.
 - 💬 Ask me about Dance, French, VueJS and NuxtJS.
-- 📫 How to reach me: (nellymoseki.co.za).
+- 📫 How to reach me: [nellymoseki.co.za].
 - ⚡ Fun fact: I'm self taught french speaking and I'm a great dancer.
 
 <!--
