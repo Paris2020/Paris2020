@@ -3,12 +3,11 @@
 Hi guy's - I'm a Frontend Developer by profession with over 3 years experience. I've had the privilege to work on beautiful web designs.
 
 - 🔭 I’m currently working personal projects.
-- 🌱 I’m currently learning Cypress, ReactJS and how top dance in heels 👠
-- 👯 I’m looking to collaborate on choreography with some good heels class teachers one day in 🇿🇦 and all over the 🌏.
-- 🤔 I’m looking for help with being a Senior's mentee in Web and Business.
-- 💬 Ask me about Dance, French, VueJS and NuxtJS.
+- 🌱 I’m currently learning ReactJS and how to dance in heels 👠
+- 🤔 I’m looking for mentorship with a Senior in Web development and business.
+- 💬 Ask me about VueJS and NuxtJS, Dance and some French.
 - 📫 How to reach me: [profile website](nellymoseki.co.za).
-- ⚡ Fun fact: I'm self taught french speaking and I'm a great dancer.
+- ⚡ Fun fact: I'm a self taught french speaking young lady and I'm a great dancer.
 
 <!--
 **Paris2020/Paris2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
