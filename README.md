@@ -3,10 +3,10 @@
 
 Hi guy's - I'm a Frontend Developer and Tutor by profession with over 8 years of experience. I've had the privilege to work on beautiful web designs.
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning more Frameworks and how to dance in heels 👠
-- 🤔 I’m looking to tutor and mentor beginners starting to code through a structured path from HTML basics to real-world JavaScript - [CodeBloom](http://nellymoseki.netlify.app/).
-- 💬 Ask me about CSS Frameworks, JS Frameworks, dance, and some French.
+- 🔭 I’m currently enrolled to study at Noroff School of Technology and Digital Media for a Diploma in Applied AI.
+- 🌱 I’m currently learning more CSS & JS Frameworks and how to dance in heels 👠
+- 🤔 I’m also looking to tutor beginners learning to code through a structured path from HTML basics to real-world JavaScript - [CodeBloom](http://nellymoseki.netlify.app/).
+- 💬 Ask me about some Frameworks, dance, and French.
 - 📫 How to reach me: [profile website](http://nellymoseki.netlify.app/).
 - ⚡ Fun fact: I'm a self-taught french-speaking South African, and I'm an amazing dancer!
 
