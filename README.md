@@ -1,7 +1,7 @@
 
 ## Salut tout le monde 👋 moi c'est Nelly.
 
-Hi guy's - I'm a Frontend Developer and Tutor by profession with over 8 years of experience. I've had the privilege to work on beautiful web designs.
+Hi guy's - I'm a Frontend Developer and Tutor by profession with over 5 years of experience. I've had the privilege to work on beautiful web designs.
 
 - 🔭 I’m currently studying part-time at Noroff School of Technology and Digital Media for a Diploma in Applied AI.
 - 🌱 I’m currently learning more JS Frameworks, devOps, backend development, and how to perfect my dance craft in heels 👠
