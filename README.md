@@ -3,7 +3,7 @@
 
 Hi guy's - I'm a Frontend Developer and Tutor by profession with over 5 years of experience. I've had the privilege to work on beautiful web designs.
 
-- 🔭 I’m currently studying part-time at Noroff School of Technology and Digital Media for a Diploma in Applied AI.
+- 🔭 I’m currently studying part-time at Noroff School of Technology and Digital Media for a Higher Professional Degree in Applied AI.
 - 🌱 I’m currently learning more JS Frameworks, devOps, backend development, and how to perfect my dance craft in heels 👠
 - 🤔 I’m also looking to tutor beginners learning to code through a structured path from HTML basics to real-world JavaScript - [CodeBloom](https://codebloom-academy.org/).
 - 💬 Ask me about some Frameworks, dance, and French.
